@@ -1,5 +1,5 @@
 [project]
-name = "langchain-rag"
+name = "365datascience"
 version = "0.1.0"
 description = "365datascience.com courses related notebooks"
 readme = "README.md"

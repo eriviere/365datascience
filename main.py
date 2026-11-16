@@ -1,5 +1,5 @@
 def main():
-    print("Hello from langchain-rag!")
+    print("Hello from 365datascience!")
 
 
 if __name__ == "__main__":
